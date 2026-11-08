@@ -1,4 +1,4 @@
-## Hi, I'm Siddhant! 👋
+## Hi, I'm Siddhant!
 
 - 🤖 Robotics engineer and MS Robotics student at the University of Michigan.
 - 🧭 I work on robot exploration, navigation, and multi-robot autonomy.
